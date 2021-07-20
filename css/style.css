@@ -1,20 +1,8 @@
-#firstP{
-	color: royalblue;
-	font-family: cursive;
-	font-size: larger;
+p{
+	color: blue;
+	font-size: 20px;
 }
 
-.header{
-	font-family: sans-serif;
-	color: greenyellow;
-}
-
-ol p{
-	color: red;
-	font-family: cursive;
-}
-
-#firstP , .header{
-	color: darkcyan;
-	font-size: xx-large;
+h1{
+	font-size: 40px;
 }
